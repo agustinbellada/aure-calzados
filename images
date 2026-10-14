@@ -1,1 +1,5 @@
-
+<!-- Para el modelo Mora -->
+<div producto="mora">
+    <img src="images/mora.jpg" alt="Sandalias Mora">
+    <h3>Mora</h3>
+</div>
